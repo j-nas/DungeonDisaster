@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonDisasters", "DungeonDisasters\DungeonDisasters.csproj", "{32B922A1-21A9-453A-8927-296705A9BB4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B922A1-21A9-453A-8927-296705A9BB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B922A1-21A9-453A-8927-296705A9BB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B922A1-21A9-453A-8927-296705A9BB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B922A1-21A9-453A-8927-296705A9BB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
